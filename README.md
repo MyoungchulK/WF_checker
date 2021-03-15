@@ -1,1 +1,1 @@
-# WF_checker
+# WF_FFT_checker
